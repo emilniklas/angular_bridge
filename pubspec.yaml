@@ -1,0 +1,13 @@
+name: angular_bridge
+version: 0.1.0
+description: Isomorphic Angular+Bridge service package
+author: Emil Persson <emil.n.persson@gmail.com>
+homepage: https://github.com/https://github.com/emilniklas/angular_bridge
+environment:
+  sdk: ">=1.8.0 <2.0.0"
+dependencies:
+  bridge: ^1.0.0-beta.1
+  angular2: ^2.0.0-alpha.45
+dev_dependencies:
+  test: any
+  testcase: any
